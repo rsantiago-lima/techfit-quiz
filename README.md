@@ -26,10 +26,5 @@ O **TechFit Quiz** é um aplicativo interativo que ajuda os usuários a descobri
 
 Para sugestões e feedback, entre em contato através de [rafael.lima1024@gmail.com](mailto:rafael.lima1024@gmail.com).
 
----
+Feito por [Rafael Lima](https://github.com/rsantiago-lima)
 
-Feito com ❤️ por [Seu Nome](https://github.com/rsantiago-lima)
-
-```
-
-```
